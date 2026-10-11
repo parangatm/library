@@ -2,6 +2,8 @@
 
 Search for a title across 16 California public library catalogs in one place. Compare availability for books, ebooks, audiobooks, and other media, then follow a result to the library's own catalog.
 
+Deployed at: https://library-black-six.vercel.app/
+
 ## How to use
 
 1. Enter a title, such as *Dune*. Add an author to narrow the results if needed.
